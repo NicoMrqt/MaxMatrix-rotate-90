@@ -5,5 +5,5 @@ Pour 1 ou plusieurs modules.  Scrolling de droite à gauche.
 Testé avec matrice Eleggo et AZDelivery. Compatibilité autre à vérifier.
 
 
-Version juste modifiée de MaxMatrix 1.0 Fev 2013
-Copyright 2013 Oscar Kin-Chung Au /Foction rotate 90° NicoMrqt 2022
+Version juste modifiée de MaxMatrix 1.0 (Fev 2013) /
+Copyright 2013 Oscar Kin-Chung Au / Fonction rotate 90° NicoMrqt 2022
